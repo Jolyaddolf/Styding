@@ -1,0 +1,14 @@
+C:\Users\dredd\source\repos\Styding\Styding\bin\Debug\net8.0\Styding.exe
+C:\Users\dredd\source\repos\Styding\Styding\bin\Debug\net8.0\Styding.deps.json
+C:\Users\dredd\source\repos\Styding\Styding\bin\Debug\net8.0\Styding.runtimeconfig.json
+C:\Users\dredd\source\repos\Styding\Styding\bin\Debug\net8.0\Styding.dll
+C:\Users\dredd\source\repos\Styding\Styding\bin\Debug\net8.0\Styding.pdb
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.AssemblyInfoInputs.cache
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.AssemblyInfo.cs
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.csproj.CoreCompileInputs.cache
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.dll
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\refint\Styding.dll
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.pdb
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\Styding.genruntimeconfig.cache
+C:\Users\dredd\source\repos\Styding\Styding\obj\Debug\net8.0\ref\Styding.dll
